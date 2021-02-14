@@ -7,7 +7,7 @@ package configuradorcoche;
 
 /**
  *
- * @author Profesor
+ * @author Profesor DEBERIAN DAR COSAS UTILES EN CLASES
  */
 public class ConfiguradorCoche {
 
